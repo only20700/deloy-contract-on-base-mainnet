@@ -20,3 +20,5 @@ feat(staking): deploy staking contract on Base mainnet
 - verify contract on BaseScan
 - set reward token and staking token addresses
 - initialize contract parameters (APY, duration, pool limit)
+- test stake, unstake, and claim reward flows
+- integrate contract address into frontend
