@@ -66,3 +66,5 @@ npx hardhat run scripts/deploy.js --network base
 npx hardhat run scripts/deploy.js --network baseSepolia
 
 npx hardhat verify --network base <CONTRACT_ADDRESS> <constructor_args>
+
+npx hardhat verify --network base 0xYourContractAddress "MyToken" "MTK"
