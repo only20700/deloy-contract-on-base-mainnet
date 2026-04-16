@@ -111,3 +111,8 @@ module.exports = {
     },
   },
 };
+## 🪙 Contracts
+
+- ERC20 Token
+- Staking Contract
+- NFT (ERC721)
