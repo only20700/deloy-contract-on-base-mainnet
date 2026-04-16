@@ -68,3 +68,17 @@ npx hardhat run scripts/deploy.js --network baseSepolia
 npx hardhat verify --network base <CONTRACT_ADDRESS> <constructor_args>
 
 npx hardhat verify --network base 0xYourContractAddress "MyToken" "MTK"
+
+async function main() {
+  const Contract = await ethers.getContractFactory("MyContract");
+  const contract = await Contract.deploy(/* constructor args */);
+
+  await contract.waitForDeployment();
+
+  console.log("Contract deployed to:", await contract.getAddress());
+}
+
+main().catch((error) => {
+  console.error(error);
+  process.exitCode = 1;
+});
