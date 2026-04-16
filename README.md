@@ -9,3 +9,4 @@ feat(deployment): deploy and verify staking contract on Base mainnet
 
 Notes:
 - ensure correct RPC endpoint for Base
+- double-check private key security before deployment
