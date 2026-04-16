@@ -22,3 +22,31 @@ feat(staking): deploy staking contract on Base mainnet
 - initialize contract parameters (APY, duration, pool limit)
 - test stake, unstake, and claim reward flows
 - integrate contract address into frontend
+
+# 🚀 Smart Contract Deployment on Base
+
+This repository contains smart contracts and deployment scripts for deploying on the Base network.
+
+## 📦 Tech Stack
+
+- Solidity
+- Hardhat
+- Ethers.js
+- OpenZeppelin
+
+---
+
+## 🌐 Supported Network
+
+- Base Mainnet
+- Base Sepolia (Testnet)
+
+---
+
+## ⚙️ Setup
+
+### 1. Clone repository
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
