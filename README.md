@@ -116,3 +116,4 @@ module.exports = {
 - ERC20 Token
 - Staking Contract
 - NFT (ERC721)
+BaseScan: https://basescan.org/address/<your_contract>
