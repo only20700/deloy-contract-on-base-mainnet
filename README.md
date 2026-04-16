@@ -50,3 +50,5 @@ This repository contains smart contracts and deployment scripts for deploying on
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
+
+npm install
