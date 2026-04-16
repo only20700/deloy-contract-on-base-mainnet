@@ -12,3 +12,4 @@ Notes:
 - double-check private key security before deployment
 
 Staking Contract
+feat(staking): deploy staking contract on Base mainnet
