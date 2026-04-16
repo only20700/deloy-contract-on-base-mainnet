@@ -16,3 +16,4 @@ feat(staking): deploy staking contract on Base mainnet
 - implement staking logic for ERC20 token
 - add reward distribution mechanism (fixed APY)
 - configure staking duration and lock period
+- deploy contract using Hardhat
