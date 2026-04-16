@@ -62,3 +62,5 @@ BASESCAN_API_KEY=your_basescan_api_key
 npx hardhat compile
 
 npx hardhat run scripts/deploy.js --network base
+
+npx hardhat run scripts/deploy.js --network baseSepolia
