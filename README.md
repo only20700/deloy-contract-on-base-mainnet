@@ -84,3 +84,8 @@ main().catch((error) => {
 });
 
 npx hardhat test
+
+contracts/        # Smart contracts
+scripts/          # Deployment scripts
+test/             # Test files
+hardhat.config.js # Hardhat configuration
