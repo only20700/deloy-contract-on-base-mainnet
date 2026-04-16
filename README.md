@@ -5,3 +5,4 @@ feat(deployment): deploy and verify staking contract on Base mainnet
 - initialize contract with production parameters
 - integrate deployed address into frontend config
 - add reusable deployment script for future upgrades
+- validate staking, reward distribution, and withdrawal flows
