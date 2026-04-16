@@ -17,3 +17,4 @@ feat(staking): deploy staking contract on Base mainnet
 - add reward distribution mechanism (fixed APY)
 - configure staking duration and lock period
 - deploy contract using Hardhat
+- verify contract on BaseScan
