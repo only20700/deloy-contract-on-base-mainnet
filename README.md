@@ -60,3 +60,5 @@ BASE_RPC_URL=https://mainnet.base.org
 BASESCAN_API_KEY=your_basescan_api_key
 
 npx hardhat compile
+
+npx hardhat run scripts/deploy.js --network base
