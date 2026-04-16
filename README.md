@@ -13,3 +13,4 @@ Notes:
 
 Staking Contract
 feat(staking): deploy staking contract on Base mainnet
+- implement staking logic for ERC20 token
